@@ -22,5 +22,7 @@ namespace WebApp_github
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+
+        
     }
 }
